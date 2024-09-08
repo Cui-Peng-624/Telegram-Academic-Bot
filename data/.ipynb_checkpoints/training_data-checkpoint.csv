@@ -1,0 +1,550 @@
+I need to retrieve 10 papers on the impact of parental involvement in education from Google Scholar,Education
+"Please find 10 papers on online learning effectiveness, no year restriction, crawl from ERIC",Education
+"Can you get 10 papers about the role of assessments in student learning, focusing on recent trends, from Google Scholar?",Education
+Investigate the relationship between socioeconomic status and educational outcomes; I'm looking for 10 papers published in the last 5 years from JSTOR,Education
+"I'm interested in 8 papers on the implementation of inclusive education practices in primary schools, crawling from Google Scholar without any year restrictions",Education
+"Please retrieve 10 papers discussing the application of gamification in education, with a preference for publications from 2021, sourced from IEEE",Education
+"Find 10 papers on teacher training programs and their effectiveness in improving classroom practices, with no year restrictions, using JSTOR as the source",Education
+"I need to retrieve 10 papers on linguistic challenges in multicultural classrooms, looking for recent findings from Google Scholar",Education
+"Looking for 10 papers that evaluate the use of technology in higher education, especially in remote learning scenarios, published after 2020, from ERIC",Education
+"Can you find 10 papers that discuss the role of emotional intelligence in teaching and learning, focusing on practical applications and strategies, sourced from Springer?",Education
+Please retrieve 10 papers on neural networks and deep learning from IEEE Xplore,Computer_Science
+"Search for 10 papers on cybersecurity measures in cloud computing, no year restriction, from Google Scholar",Computer_Science
+"I am looking for 10 recent papers on natural language processing advancements from arXiv, preferably published after 2021",Computer_Science
+"Please find 10 papers discussing the applications of quantum computing, published in the last 5 years from IEEE Xplore",Computer_Science
+"Research on the impact of AI in healthcare, find 10 papers from PubMed, year of publication not restricted",Computer_Science
+"I need to retrieve 10 papers on the latest trends in software engineering practices from ACM Digital Library, no constraints on publication year",Computer_Science
+"Please find 8 papers focused on the ethics of artificial intelligence, ideally published after 2018 from Google Scholar",Computer_Science
+"Conduct a comprehensive search on the advancements in computer graphics rendering techniques, find 10 papers from IEEE Xplore, with no year restriction",Computer_Science
+"Search for 6 papers examining the role of big data analytics in business intelligence, preferably published in the last 3 years from Google Scholar",Computer_Science
+"I would like to gather insights on the evolution of programming languages, find 10 papers published within the last 5 years from arXiv, no particular focus on publication year",Computer_Science
+"I need 10 papers on the efficacy of mRNA vaccines from PubMed, no year restriction",Medicine
+"Retrieve 10 recent studies on mental health interventions in adolescents from Google Scholar, published after 2019",Medicine
+"Find 10 papers on the management of diabetes in elderly patients from PubMed, published after 2021",Medicine
+"Looking for comprehensive research on the relationship between gut microbiome and autoimmune diseases. Please retrieve 10 papers from PubMed, with no restrictions on publication year.",Medicine
+"I want 10 papers on telemedicine applications in primary care, no year constraint, sourced from Google Scholar",Medicine
+"Find 10 studies examining the long-term effects of COVID-19 on cardiovascular health, published after 2022 from PubMed",Medicine
+"Please retrieve 10 articles on advancements in surgical techniques for orthopedic injuries from Google Scholar, with no restrictions on publication year",Medicine
+"Investigate the role of nutrition in cancer prevention. I need 10 research papers from PubMed, published after 2020",Medicine
+"I am looking for 10 papers that analyze the impact of health disparities on access to care in underserved communities from Google Scholar, published in the last 5 years",Medicine
+"Please gather 10 studies on the psychological impacts of chronic illness management in patients, focusing on anxiety and depression. Use PubMed as the source, with no restrictions on publication year.",Medicine
+Please retrieve 10 papers examining the role of women in Victorian literature from Google Scholar,Literature
+"Find 10 papers on the use of intertextuality in contemporary poetry, with no restrictions on publication year from JSTOR",Literature
+"Research the impact of colonialism on postcolonial literature, retrieving 5 papers, no year restriction from Google Scholar",Literature
+"Explore the themes of identity and dislocation in diasporic authors, find 8 papers published after 2018 from JSTOR",Literature
+"Detailed analysis of the evolution of the novel form in the 21st century, retrieve 12 papers, no year restriction from Google Scholar",Literature
+Please find 10 papers discussing magical realism in Latin American fiction from JSTOR,Literature
+"Investigate the portrayal of mental illness in 19th-century literature, retrieve 6 papers, no year restriction from Google Scholar",Literature
+"Research on environmental themes in contemporary literature, retrieve 10 papers published after 2015 from JSTOR",Literature
+"Comprehensive study of existential themes in the works of Franz Kafka, find 5 papers, no year restriction from Google Scholar",Literature
+"Explore the influence of the Harlem Renaissance on modern African American literature, retrieve 7 papers, published after 2020 from JSTOR",Literature
+"I need to retrieve 10 papers on biodiversity conservation strategies from Google Scholar, no year restriction",Other
+"Research on the economic impacts of tourism development, find 5 papers, no year restriction from JSTOR",Other
+"Studies on the effects of climate change on agricultural productivity, retrieve 8 papers from Google Scholar, published after 2018",Other
+"An in-depth examination of the role of non-governmental organizations in humanitarian aid, retrieve 10 papers, no year restriction from JSTOR",Other
+"I am looking for 7 papers that discuss advancements in sustainable architecture, published after 2021, from Google Scholar",Other
+"Investigate the psychological effects of social media on adolescents; please retrieve 6 papers, with no year restriction, from JSTOR",Other
+"A comprehensive analysis of renewable energy policy frameworks globally, retrieve 10 papers, published within the last 5 years from Google Scholar",Other
+"Detailed study of the socio-political factors affecting migration patterns in Europe, please find 10 papers, published after 2019, from JSTOR",Other
+"Research on advanced materials in construction engineering, retrieve 5 papers, no year restriction from Google Scholar",Other
+"I need papers examining the relationship between cultural diversity and workplace innovation; retrieve 8 papers from JSTOR, with no year restriction",Other
+"I would like to retrieve 10 papers on the impact of socio-emotional learning in classrooms, with no restrictions on publication year, from Google Scholar",Education
+"Please find 6 papers on effective assessment strategies for online learning environments, published since 2021, crawling from PubMed",Education
+"Looking for 10 papers on inclusive education practices for students with disabilities, no year restriction, from Google Scholar",Education
+"Can you investigate the role of technology in enhancing student engagement in higher education? I'm interested in 5 recent papers published after 2019, crawling from IEEE",Education
+"Please retrieve 12 papers on the influence of parental involvement in children's education, with no restrictions on the publication year, from JSTOR",Education
+"I need to find 10 papers discussing the challenges faced by teachers in remote learning situations, looking for publications from the last 3 years from ScienceDirect",Education
+"Find 7 papers on the effectiveness of project-based learning in K-12 education, with no specific publication year, crawling from Google Scholar",Education
+"Can you help me gather 15 papers exploring multicultural education and its impact on student performance, published from 2015 onwards, from ERIC?",Education
+"Please retrieve 8 papers examining the integration of social media in educational settings, published in the last 2 years, crawling from Google Scholar",Education
+"I am researching the impact of mindfulness programs in schools on student mental health. Please find 10 relevant papers, without any year restriction, from PubMed",Education
+"Please retrieve 10 papers on quantum computing algorithms, no year restriction, from IEEE Xplore",Computer_Science
+"I am looking for 10 papers related to natural language processing, focusing on recent advancements from Google Scholar, no year restriction",Computer_Science
+"Find 10 studies on ethical implications of artificial intelligence, published after 2018 from ResearchGate",Computer_Science
+"I need 10 papers on cybersecurity measures for IoT devices, please find those published in the last 2 years from IEEE Xplore",Computer_Science
+"Research on graph theory applications in computer networks, please retrieve 10 papers from Google Scholar, no year restriction",Computer_Science
+"Can you find 6 papers discussing explainable AI techniques, with no restrictions on publication year, from arXiv?",Computer_Science
+"Explore the intersection of human-computer interaction and virtual reality, searching for 10 papers from ACM Digital Library, no year restriction",Computer_Science
+"I am conducting a review on the impact of 5G technology on cloud computing, please retrieve 10 relevant papers published since 2021 from Google Scholar",Computer_Science
+"Collect 10 papers that discuss methodologies for deep learning model optimization, with no year restrictions, from IEEE Xplore",Computer_Science
+"A comprehensive analysis of neural network architectures applied to image processing, please find 10 publications from the last 3 years in SpringerLink",Computer_Science
+"Find 10 papers on hypertension management from PubMed, no year restriction",Medicine
+"Retrieve 10 studies on telehealth efficacy, published after 2019, from Google Scholar",Medicine
+"I need 10 papers discussing the ethics of genetic testing, with no restrictions on publication year, from PubMed",Medicine
+"Search for 10 articles on the impact of nutrition on mental health, published after 2020, from Google Scholar. This topic is crucial for understanding the role of diet in psychological well-being",Medicine
+"Retrieve 10 recent papers on the use of artificial intelligence in diagnostics, focusing on studies from 2021 and beyond from PubMed",Medicine
+"Find 10 articles related to vaccine development protocols, published in 2022 from Google Scholar. This information is essential for identifying recent advancements in vaccine technology.",Medicine
+"Get 10 papers focused on the long-term effects of COVID-19, with no publication year restrictions, from PubMed",Medicine
+"I am looking for 10 research articles on the relationships between sleep disorders and cardiovascular health, with no specific publication year range, from Google Scholar. This is a growing field of interest that could influence treatment policies",Medicine
+"Retrieve 10 papers discussing the social determinants of health, published after 2018 from PubMed. Understanding these determinants is key to addressing health disparities effectively",Medicine
+"Find 10 studies on the effectiveness of mindfulness-based interventions for chronic pain management, with no restrictions on the year of publication, from Google Scholar",Medicine
+Please retrieve 10 papers on the evolution of narrative voice in contemporary fiction from Google Scholar,Literature
+"Find 10 papers discussing the representation of race in American poetry, published between 2010 and 2022 from JSTOR",Literature
+"Research on magical realism's roots in Latin American literature, retrieve 10 papers, no year restriction from Google Scholar",Literature
+"Collect 8 papers analyzing the impact of the Harlem Renaissance on modern literature, published after 2018 from JSTOR",Literature
+"Look for 15 papers on the use of metafiction in contemporary novels, including discussions on its effects on reader perception, with no year limitation from Google Scholar",Literature
+"Comprehensive examination of women’s voices in Victorian literature, find 5 papers, published before 2015 from JSTOR",Literature
+Retrieve 10 papers on post-colonial literature's critique of imperial narratives from Google Scholar,Literature
+"Request 6 papers focusing on the thematic significance of isolation in 19th-century novels, no specific year required, from JSTOR",Literature
+"Find 10 papers about the role of the unreliable narrator in 21st-century literature, including various genres, with no year restrictions from Google Scholar",Literature
+"Research on the environmental themes in contemporary poetry, please retrieve 7 papers, published after 2019 from JSTOR",Literature
+"I need to retrieve 10 papers on environmental sustainability practices from Google Scholar, no year restriction",Other
+"Research on the economic impact of tourism in developing countries, find 8 papers from JSTOR, published after 2018",Other
+"Studies on the effects of artificial intelligence on job markets, retrieve 10 papers from Google Scholar, no year restriction",Other
+"I am looking for 5 papers that provide a comprehensive analysis of blockchain technology in supply chains, published after 2020 from JSTOR",Other
+"Detailed review of psychological theories related to consumer behavior, retrieve 7 papers from Google Scholar, no year restriction",Other
+"Research on the role of government policy in renewable energy adoption, find 10 papers from JSTOR, published after 2015",Other
+"Studies on the relationship between social media usage and mental health outcomes, retrieve 6 papers from Google Scholar, no year restriction",Other
+"I want to discover 10 papers discussing the role of cultural heritage in urban development, focusing on case studies, with no year restrictions from JSTOR",Other
+"Research on international trade agreements and their effects on local economies, find 8 papers from Google Scholar, published since 2019",Other
+"Comprehensive review of the influence of climate policies on renewable energy investments, retrieve 5 papers from JSTOR, no year restriction",Other
+"Retrieve 10 papers on the impact of parental involvement on student achievement, with no year restrictions from Google Scholar",Education
+"Please find 6 papers discussing the effects of bilingual education on cognitive development, published between 2015 and 2023, crawl from PubMed",Education
+"I am looking for 10 papers related to the integration of technology in the classroom, no year restriction, from IEEE",Education
+"Can you locate 7 studies on the effectiveness of online learning platforms in higher education? There are no specific year restrictions, and I would like to use Google Scholar as the source",Education
+"Find 5 papers on culturally responsive teaching practices and their impact on minority students, published after 2019, from ERIC",Education
+I need to explore the relationship between school funding and student performance; please retrieve 10 relevant papers published within the last decade from JSTOR,Education
+"Investigate the role of mindfulness programs in improving student mental health, looking for 10 papers published after 2020, and please crawl from Google Scholar",Education
+"Please find 8 papers on innovative assessment methods in education, focusing on formative assessments, with no year restrictions, from Scopus",Education
+"Could you retrieve 12 studies related to inclusion strategies for students with disabilities in mainstream classrooms, preferably published in the last 3 years? Crawl from ERIC",Education
+I want to examine how classroom environment affects student motivation; please find 10 papers published since 2018. I am particularly interested in research available on Google Scholar,Education
+"Please retrieve 10 papers on quantum computing, no year restriction, from IEEE Xplore",Computer_Science
+Search for 8 papers discussing artificial intelligence ethics published since 2020 from Google Scholar,Computer_Science
+"I need to find 10 papers on reinforcement learning applications from arXiv, no year restriction",Computer_Science
+"Look for 5 papers on natural language processing advancements, focusing on model interpretability, from ACL Anthology, no year restriction",Computer_Science
+"Please compile 12 papers related to cybersecurity measures in cloud computing, published in the last 2 years, from ScienceDirect",Computer_Science
+"Research 6 papers about the impact of 5G technology on IoT systems from IEEE Xplore, no year restriction",Computer_Science
+"Find 10 papers discussing the role of big data in healthcare informatics, specifically those published after 2018, from PubMed",Computer_Science
+"I need 7 papers that provide insights into the future of programming languages, especially focusing on trends and predictions, published between 2020 and 2023, from Google Scholar",Computer_Science
+"Search for 9 papers exploring the intersection of computer graphics and virtual reality, no year restriction, from ACM Digital Library",Computer_Science
+"Please gather 10 papers that investigate the use of neural networks for image processing solutions, aiming for publications from the last 5 years, from arXiv",Computer_Science
+"Retrieve 10 papers on diabetes management strategies from PubMed, no year restriction",Medicine
+"Find 5 papers on the effects of telemedicine in patient care, published after 2022 from Google Scholar",Medicine
+I need 8 research articles about antibiotic resistance published in the last 5 years from PubMed,Medicine
+"Please gather 10 papers on the efficacy of vaccines against emerging infectious diseases, published after 2019 from Google Scholar. I am particularly interested in studies that analyze long-term immunity.",Medicine
+"Locate 7 papers discussing mental health interventions during pandemics, with no year restrictions, from PubMed",Medicine
+"Find 12 papers on advancements in cardiovascular surgery techniques, published after 2018 from Google Scholar",Medicine
+"I'm looking for 5 studies on the challenges of elderly care in hospitals, published after 2020 from PubMed. Specifically, I'm interested in papers addressing staff shortages and patient safety.",Medicine
+"Retrieve 10 papers on innovative treatments in neurology, with no year restriction from Google Scholar",Medicine
+"I need 6 papers focused on the impact of nutrition on pregnancy outcomes, published after 2021 from PubMed. Emphasis on maternal diet and its relationship with fetal health would be ideal.",Medicine
+"Please find 10 research articles on healthcare policy changes and their implications for patient care, published in the last 3 years from Google Scholar",Medicine
+Please retrieve 10 papers on magical realism in contemporary literature from JSTOR,Literature
+"Find 5 papers discussing the role of women in Victorian literature, published after 2010 from Google Scholar",Literature
+"Research on the intersection of postcolonial theory and literature, retrieve 10 papers, no year restriction from JSTOR",Literature
+"Investigate the use of unreliable narrators in 21st-century fiction, find 8 papers, published after 2018 from Google Scholar",Literature
+"Please provide 6 studies exploring themes of identity in African literature, with no restrictions on publication year, from JSTOR",Literature
+"Detailed examination of existential themes in the works of Franz Kafka, retrieve 5 papers, published after 2015 from Google Scholar",Literature
+"Analyze the impact of technology on narrative structure in modern novels, find 10 papers, with no year restriction from JSTOR",Literature
+"Retrieve 4 papers on the significance of the Harlem Renaissance in American literature, no year restriction from Google Scholar",Literature
+"Comprehensive review of language and style in contemporary poetry, find 10 papers, published after 2020 from JSTOR",Literature
+"Explore the evolution of children's literature in the digital age, retrieve 7 papers, no restrictions on publication year from Google Scholar",Literature
+"I need to retrieve 10 papers on biodiversity conservation strategies from Google Scholar, no year restriction",Other
+"Research on the economic impacts of tourism, find 5 papers, no year restriction from JSTOR",Other
+"Studies on the effects of global warming on agriculture, retrieve 8 papers from Google Scholar, published after 2018",Other
+"I am looking for comprehensive reviews on the psychological effects of social media on youth, retrieve 10 papers from JSTOR, no year restriction. Understanding these effects is crucial for developing guidelines for safe social media use among adolescents",Other
+"Detailed analysis of the role of women in ancient civilizations, retrieve 7 papers, published after 2015 from Google Scholar. This topic is vital for understanding gender dynamics in historical contexts",Other
+"Explore the economic implications of blockchain technology in finance, find 10 papers, no year restriction from JSTOR",Other
+"I need to retrieve 6 papers discussing the variance in climate adaptation strategies across different countries from Google Scholar, published after 2019. This information is necessary to evaluate policy effectiveness globally",Other
+"Research on the impact of urban green spaces on mental health, retrieve 10 papers from Google Scholar, no year restriction",Other
+"Analysis of the philosophical implications of artificial intelligence, find 5 papers, published after 2020 from JSTOR",Other
+"I am interested in retrieval of papers on the influence of cultural heritage on regional development, please find 8 papers, no year restriction from Google Scholar. Understanding these connections can inform better policy-making for sustainable development",Other
+"I would like to retrieve 10 papers on the impact of remote learning on student engagement, with no year restrictions, from Google Scholar",Education
+"Please find 10 papers discussing the implementation of inclusive education strategies in primary schools, no year limit, crawling from ERIC",Education
+"Can you locate 10 papers on the role of emotional intelligence in teacher effectiveness, focusing on studies published in the last 5 years from Google Scholar?",Education
+"I need to explore the relationship between arts education and creativity in children, looking for 10 relevant papers with no restrictions on publication year, crawling from JSTOR",Education
+"Find 10 papers on the effectiveness of mentorship programs for new teachers, preferably published after 2019, gathering data from the Education Resources Information Center (ERIC)",Education
+"I am searching for 8 papers analyzing the impact of standardized testing on student learning outcomes, with a focus on works published within the last decade, from Google Scholar",Education
+"Please retrieve 10 papers regarding technology integration in the classroom, focusing on high school education, with no year restrictions, using IEEE as the source",Education
+"Investigate the challenges faced by educators in implementing culturally responsive teaching practices, looking for 10 papers from the last 3 years crawling from Google Scholar",Education
+"I would like to find 10 academic papers on the effects of parental involvement on student achievement, especially those published after 2021, from ERIC",Education
+"Can you help find 10 papers about the role of gamification in enhancing student learning outcomes, with no restrictions on publication date, retrieved from the Science Direct database?",Education
+Please retrieve 10 papers on deep learning optimization techniques from IEEE Xplore,Computer_Science
+"Find 15 papers related to natural language processing innovations from Google Scholar, no year restriction",Computer_Science
+"Research on secure software development practices, find 10 papers published since 2018 from ACM Digital Library",Computer_Science
+"I need to locate 8 papers discussing quantum computing applications, no year restriction, from arXiv",Computer_Science
+"Comprehensive review on ethical implications of AI in society, find 10 papers published in the last 2 years from Springer",Computer_Science
+"Examine the correlation between algorithm complexity and performance in real-world applications, find 5 papers published after 2019 from ResearchGate",Computer_Science
+"Explore the latest advancements in Internet of Things (IoT) security measures, find 12 papers from IEEE Xplore, no year restriction",Computer_Science
+"Please retrieve 10 papers on automated testing techniques in software engineering from Google Scholar, no year restriction",Computer_Science
+"Investigate the role of big data in predictive analytics, find 7 papers published from 2020 onwards from Elsevier",Computer_Science
+"Detailed exploration of reinforcement learning in robotics, find 10 papers published within the last 5 years from arXiv",Computer_Science
+"I need 10 papers on diabetes management strategies from PubMed, no year restriction",Medicine
+"Retrieve 8 papers on the impact of telemedicine in primary care, published after 2022 from Google Scholar",Medicine
+Search for 10 papers discussing mental health interventions for adolescents from PubMed,Medicine
+"Find 5 papers that explore the relationship between obesity and cardiovascular disease, published after 2019 from Google Scholar",Medicine
+"Recent studies on gene therapy for rare diseases, retrieve 12 papers, no year restriction from PubMed",Medicine
+"I am looking for 10 papers on the efficacy of mRNA vaccines against viruses, published after 2021 from Google Scholar",Medicine
+"Retrieve 6 papers on advances in personalized medicine, no year restriction, focusing on pharmacogenomics from PubMed",Medicine
+"Please find 7 papers analyzing the effects of air pollution on respiratory health, with no year restriction, using Google Scholar",Medicine
+"Comprehensive review on the management of chronic pain in elderly patients, retrieve 10 papers published after 2020 from PubMed",Medicine
+"I’m interested in 5 recent studies regarding antibiotic resistance in healthcare settings, published after 2018 from Google Scholar",Medicine
+Please retrieve 10 papers on the role of symbolism in Romantic literature from Google Scholar,Literature
+"Find 10 papers discussing the impact of post-colonial theory on contemporary poetry, no year restriction from JSTOR",Literature
+"Research on the evolution of the detective genre in literature, retrieve 6 papers, published after 2018 from Google Scholar",Literature
+"Detailed analysis of the representation of gender in Victorian novels, find 10 papers from JSTOR, no year restriction",Literature
+"Please retrieve 5 papers on the relationship between literature and psychology, focusing on psychoanalytic criticism from Google Scholar",Literature
+"Find 8 academic papers on the use of allegory in 21st-century literature, published after 2017 from JSTOR",Literature
+"Research on magical realism and its influence on global literature, retrieve 7 papers, no year restriction from Google Scholar",Literature
+"In-depth study of the American Southern Gothic tradition, please find 12 papers, published after 2016 from JSTOR",Literature
+"Explore the narrative structures and themes in graphic novels, retrieve 9 papers, no year restriction from Google Scholar",Literature
+"Comprehensive review of the impact of social media on contemporary poetry, find 10 papers from JSTOR, published after 2021",Literature
+"I need to retrieve 10 papers on renewable energy policies from Google Scholar, no year restriction",Other
+"Please find 8 papers on urban air quality management from JSTOR, no year restriction",Other
+"Research on the impact of globalization on local economies, retrieve 10 papers from Google Scholar, no year restriction",Other
+"Studies on the effects of deforestation on biodiversity, retrieve 5 papers, published after 2018 from JSTOR",Other
+I am looking for comprehensive analyses of financial market trends over the last decade; please retrieve 10 papers from Google Scholar with no year restrictions,Other
+"Please provide 6 papers discussing the psychological impacts of social media usage on adolescents from JSTOR, no year restriction",Other
+"Research on advancements in agricultural biotechnology, find 10 papers, no year restriction from Google Scholar",Other
+"Detailed examination of water resource management strategies in arid regions, retrieve 5 papers, published after 2019 from JSTOR",Other
+"Studies investigating the correlation between economic policies and social inequality, retrieve 7 papers from Google Scholar, no year restriction",Other
+"I am seeking literature on the relationship between traditional knowledge and conservation practices; please retrieve 8 papers from JSTOR, published after 2020",Other
+"Please find 10 papers on the impact of remote learning on student engagement, no year restriction, from Google Scholar",Education
+"I need to retrieve 10 papers on culturally responsive teaching practices, published after 2019, sourced from ERIC",Education
+"Can you locate 10 papers discussing the integration of social-emotional learning in primary education, with no year restrictions, from JSTOR?",Education
+"I'm interested in 10 papers that explore the influence of parental involvement in children's academic success, preferably published in the last 3 years, from Google Scholar",Education
+"Find 10 papers about the challenges of bilingual education in urban settings, published since 2020, to be crawled from PubMed",Education
+"I am looking for 10 studies that analyze the role of technology in enhancing student motivation, with no year limitations, from IEEE",Education
+"Please gather 10 papers on the effects of classroom design on learning outcomes, focusing on recent developments, from Google Scholar",Education
+"Identify 10 research articles on the psychological impacts of standardized testing on high school students, preferably published from 2015 onwards, from ERIC",Education
+"I would like to retrieve 10 papers on innovative assessment methods in higher education, with no year restrictions, to be sourced from JSTOR. The focus should be on methods that enhance learning feedback.",Education
+"Locate 10 papers on the implications of educational equity across different socioeconomic groups, preferably published recently, from Google Scholar",Education
+"Please retrieve 10 papers on natural language processing, no year restriction, from IEEE Xplore",Computer_Science
+"Research on artificial intelligence ethics, find 10 papers published after 2021 from Google Scholar",Computer_Science
+"I need to find 10 papers on cloud computing architectures from ACM Digital Library, no year restriction",Computer_Science
+"Explore recent trends in quantum computing, find 5 papers published in the last 2 years from arXiv",Computer_Science
+"I’m looking for 10 studies about cybersecurity frameworks applicable to IoT devices from SpringerLink, no year restriction",Computer_Science
+"Investigate advancements in reinforcement learning algorithms, find 6 papers published after 2020 from Google Scholar",Computer_Science
+"Please retrieve 8 papers on software development methodologies, focusing on agile practices from IEEE Xplore, no year restriction",Computer_Science
+"Comprehensive review of privacy-preserving techniques in machine learning, find 10 papers published since 2019 from PubMed Central",Computer_Science
+"Detailed analysis of the Internet of Things (IoT) security challenges, retrieve 7 papers published in the last 3 years from ResearchGate",Computer_Science
+"I want to explore innovations in edge computing, please find 10 papers published after 2022 from ScienceDirect",Computer_Science
+"I need 10 papers on diabetes management from PubMed, no year restriction",Medicine
+"Retrieve 8 papers about telemedicine practices, published after 2019 from Google Scholar",Medicine
+"Find 6 papers on the effects of exercise on mental health, no year restriction from PubMed",Medicine
+"I would like to read 10 studies on the long-term effects of COVID-19, published after 2021 from PubMed to understand the implications better",Medicine
+Search for 12 articles on opioid addiction treatments published after 2018 in Google Scholar,Medicine
+"Find 10 papers discussing recent advancements in CRISPR technology related to gene therapy, with no year restrictions from PubMed",Medicine
+"I am interested in exploring 5 papers on maternal health disparities, specifically focusing on racial and socioeconomic factors, no year limit from Google Scholar",Medicine
+"Retrieve 10 papers on the role of gut microbiome in autoimmune diseases, published after 2020 from PubMed for a comprehensive review",Medicine
+"Search for 7 articles on health communication strategies during pandemics, with no restrictions on publication year from Google Scholar",Medicine
+"I need 10 papers related to advancements in pediatric vaccinations, especially the formulations used during the COVID-19 pandemic, published after 2021 from PubMed for a project",Medicine
+Please retrieve 10 papers on the role of women in Victorian literature from JSTOR,Literature
+"Find 10 papers discussing post-colonial themes in contemporary literature, with no year restrictions from Google Scholar",Literature
+"Research on the evolution of the novel in the 19th century, retrieve 10 papers, no year restriction from JSTOR",Literature
+"Please find 8 papers focused on the influence of existential philosophy on 20th-century literature, published after 2018 from Google Scholar",Literature
+"Compile 10 papers that analyze the use of magical realism in Latin American literature, with no year restrictions from JSTOR",Literature
+Explore the intersection of literature and environmentalism; please retrieve 5 papers published after 2019 from Google Scholar. This topic examines how literary works reflect ecological themes and concerns in recent decades.,Literature
+"Please find 10 papers on the portrayal of mental illness in modern literature, with no restrictions on publication year from JSTOR",Literature
+"Research on the impact of social media on contemporary poetry, retrieve 6 papers published after 2017 from Google Scholar. This study should explore how digital platforms have transformed poetic expression and readership.",Literature
+"Retrieve 10 papers discussing the significance of mythology in contemporary fiction from Google Scholar, with no year restriction.",Literature
+"Please gather 7 papers focusing on the representation of race in American literature, emphasizing works published after 2010 from JSTOR. This research should highlight changes and continuities in racial themes and depictions over the last decade.",Literature
+"I need to retrieve 10 papers on environmental sustainability from Google Scholar, no year restriction",Other
+"Research on the economic impacts of globalization, find 8 papers, published after 2018 from JSTOR",Other
+"Studies on the effects of social media on political participation, retrieve 6 papers from Google Scholar, no year restriction",Other
+"Comprehensive analysis of the role of artificial intelligence in business strategy, retrieve 10 papers, published after 2020 from Google Scholar",Other
+"Detailed exploration of consumer behavior in the context of e-commerce, retrieve 5 papers, no year restriction from JSTOR",Other
+"I need to gather 10 papers on renewable resource management from Google Scholar, no restrictions on publication year",Other
+"Research on psycho-social factors in disaster recovery, find 7 papers, published after 2017 from JSTOR",Other
+"Studies on urban development and its effects on local ecosystems, retrieve 10 papers from Google Scholar, no year restriction",Other
+"A thorough review of international trade policies and their socio-economic consequences, retrieve 8 papers, published after 2019 from JSTOR",Other
+"Investigate the relationship between nutrition and mental health outcomes, retrieve 6 papers from Google Scholar, no year restriction",Other
+I need to retrieve 10 papers on inclusive education strategies published after 2019 from Google Scholar,Education
+"Please find 10 papers on the impact of remote learning on student engagement, with no year restriction, crawl from PubMed",Education
+"Looking for 10 studies on the effectiveness of bilingual education programs, no specific year limit, crawl from ERIC",Education
+"Investigate the role of parental involvement in early childhood education, seeking 10 papers published in the last 3 years from Google Scholar",Education
+"Find 10 papers on gamification in education, focusing on student motivation and learning outcomes, published within the last 5 years, crawl from IEEE",Education
+"I would like to explore 10 papers discussing the benefits of social-emotional learning in elementary schools, with no restrictions on the year of publication, from Google Scholar",Education
+"Please retrieve 10 papers on the use of technology in STEM education, looking for insights published after 2020, with a focus on Google Scholar as the source",Education
+"Find 10 academic articles related to the challenges of implementing culturally relevant pedagogy in diverse classrooms, published in the last 4 years, from ERIC",Education
+"I am looking for 10 research papers about teacher professional development and student outcomes, with no year restrictions, to be crawled from JSTOR",Education
+"Please gather 10 papers on the influence of classroom design on student learning experiences, focusing on studies published from 2018 onwards, to be sourced from Google Scholar",Education
+"Please retrieve 10 papers on neural networks and their applications, no year restriction, from Google Scholar",Computer_Science
+"Research on the impact of quantum computing, find 6 papers published after 2021 from IEEE Xplore",Computer_Science
+"I need to find 10 papers regarding cybersecurity threats and mitigation strategies from ACM Digital Library, no year restriction",Computer_Science
+Please gather 8 papers on the advancements in natural language processing published in the last 5 years from ArXiv,Computer_Science
+"A comprehensive review of data mining techniques, looking for 10 papers from 2018 onwards from ScienceDirect",Computer_Science
+"Investigate the role of artificial intelligence in healthcare, find 7 papers published after 2020 from PubMed Central, focusing on algorithm development and outcomes",Computer_Science
+"Research on the social implications of autonomous vehicles, please retrieve 5 relevant papers from Google Scholar with no year restriction",Computer_Science
+"I am looking for 10 papers on the use of edge computing in IoT systems, specifically from the last 3 years, from IEEE Xplore",Computer_Science
+"Comprehensive analysis of the ethical considerations in machine learning, find 8 papers published since 2019 from SpringerLink",Computer_Science
+"Explore the current trends in software engineering methodologies, please gather 6 papers published in the last 2 years from ACM Digital Library",Computer_Science
+"Retrieve 10 papers on diabetes management from PubMed, no year restriction",Medicine
+"I need 5 papers on the effects of sleep disorders on mental health, published after 2019 from Google Scholar",Medicine
+Find 10 papers related to vaccine efficacy in adolescents published after 2021 from PubMed,Medicine
+"Latest studies on antibiotic resistance, retrieve 12 papers, with no year restrictions from Google Scholar",Medicine
+"Comprehensive review on the impact of diet on heart health, find 8 papers published after 2020 from PubMed",Medicine
+"I am looking for 10 research articles on telemedicine practices used during the COVID-19 pandemic from Google Scholar, published in 2022 or later",Medicine
+"Search for 7 papers focusing on advances in gene therapy for genetic disorders, no year restriction from PubMed",Medicine
+"Investigate the relationship between exercise and mental health outcomes, retrieve 10 papers published since 2018 from Google Scholar",Medicine
+"Find 6 recent papers on the management strategies for Alzheimer's disease published after 2020 from PubMed, focusing on innovative therapies",Medicine
+"I need a deeper understanding of the implications of hormonal therapies in transgender care. Please retrieve 10 papers from PubMed, published after 2019, that explore this topic",Medicine
+Please retrieve 10 papers on the role of gender in 19th-century literature from JSTOR,Literature
+"Find 10 papers discussing the evolution of the protagonist in contemporary fiction, no year restriction, from Google Scholar",Literature
+"Research on the impact of translation on the reception of classic novels, retrieve 5 papers, published after 2018 from JSTOR",Literature
+Analyze the representation of race in American literature from 2000 to present. Please find 8 relevant papers from Google Scholar,Literature
+"Explore the theme of existentialism in modern poetry, retrieve 10 papers, no year restriction, from JSTOR",Literature
+"Please find 6 papers that investigate the intersection of literature and digital media, emphasizing studies published after 2020 from Google Scholar",Literature
+"Compile 10 papers on the literary techniques used in magical realism, published between 2015 and 2021, from JSTOR",Literature
+"Conduct a thorough review of the narrative structures in graphic novels, retrieving 12 papers with no limitations on publication year from Google Scholar",Literature
+"Research the influence of post-colonial theory on literary criticism, retrieve 7 papers, published after 2015, from JSTOR",Literature
+"Find 10 scholarly articles discussing the use of folklore in contemporary literature, focusing on works published after 2010 from Google Scholar",Literature
+"I need to retrieve 10 papers on global warming from Google Scholar, no year restriction",Other
+"Research on sustainable agriculture practices, find 8 papers, published after 2018 from JSTOR",Other
+"Studies on the history of economic thought, retrieve 7 papers from Google Scholar, no year restriction",Other
+"Exploration of psychological effects of social media on adolescents, please find 10 papers from JSTOR, published after 2020",Other
+"Detailed analysis of political polarization in modern democracies, retrieve 5 papers, no year restriction from Google Scholar",Other
+"I need to gather 10 papers on the impact of artificial intelligence on labor markets from JSTOR, no year restriction",Other
+"Research on the effects of climate change on biodiversity, please find 8 papers, published after 2015 from Google Scholar",Other
+"Comprehensive review of the role of international organizations in conflict resolution, retrieve 10 papers, no year restriction from JSTOR",Other
+"Investigation into the dynamics of international trade relations since the 2008 financial crisis, find 6 papers from Google Scholar, no year restriction",Other
+"I require 10 papers on the advancements in renewable energy technologies, specifically solar and wind, published after 2017 from JSTOR",Other
+"Can you retrieve 10 papers on the impact of online learning on student engagement, no year restriction, from Google Scholar?",Education
+"I'm looking for 7 papers discussing the role of parental involvement in children's education, preferably published in the last 3 years, from JSTOR.",Education
+"Please find 10 articles on the effectiveness of bilingual education programs, with no year restrictions, sourced from ERIC.",Education
+"Investigate the relationship between classroom environment and student motivation, seeking 5 papers published after 2019 from Google Scholar.",Education
+"I need to gather 10 papers focused on assessment methods in higher education, with an emphasis on formative assessment, published in the last 8 years, from ScienceDirect.",Education
+"Find 6 research articles discussing the integration of technology in the classroom and its effects on learning outcomes, no year restrictions, from SpringerLink.",Education
+"Can you retrieve 4 papers that evaluate the impacts of teacher training programs on student performance, preferably published after 2020, from ERIC?",Education
+"I'm interested in 10 findings related to culturally responsive teaching practices, looking for publications from the last 5 years, sourced from Google Scholar.",Education
+"Please retrieve 8 papers on the influence of school leadership on teacher retention rates, focusing on studies published after 2018, from Taylor & Francis Online.",Education
+"Investigate the challenges and benefits of inclusive education for students with disabilities, seeking 12 papers with no year limitations, from PubMed.",Education
+"Please retrieve 10 papers on quantum computing algorithms, no year restriction, from IEEE Xplore",Computer_Science
+"Search for 10 papers discussing the application of AI in healthcare, no year restriction, from Google Scholar",Computer_Science
+"I am looking for 6 papers on computer network security improvements, published after 2018, from ACM Digital Library",Computer_Science
+"Explore 10 papers concerning the impact of virtual reality on education, from the last 5 years, using Google Scholar",Computer_Science
+"Find 8 papers that analyze the efficiency of different sorting algorithms, published after 2017, from IEEE Xplore",Computer_Science
+"Please compile 10 papers on human-computer interaction advancements, with no year restrictions, from ACM Digital Library",Computer_Science
+"Research into the ethical implications of AI technologies, find 5 papers published in 2022 or later from SpringerLink, focusing on both technical and societal perspectives",Computer_Science
+"I need 10 papers addressing recent developments in natural language processing, no year restrictions, from Google Scholar",Computer_Science
+"Collect 7 papers on the challenges of data privacy in cloud computing, published from 2020 onward, from IEEE Xplore",Computer_Science
+"Investigate 10 papers on the use of deep learning for image recognition tasks, no year restrictions, from arXiv.org",Computer_Science
+"Find 10 papers on diabetes management from PubMed, no year restriction",Medicine
+"I need 6 studies on the effects of stress on cardiovascular health, published after 2019, from Google Scholar",Medicine
+"Retrieve 10 papers discussing advancements in telemedicine, with no publication year limit from PubMed",Medicine
+"Explore 8 research articles on the relationship between obesity and sleep apnea, published after 2020, from Google Scholar",Medicine
+"Gather 10 papers concerning women's health issues related to hormonal changes, no year restriction, from PubMed",Medicine
+"I am looking for recent investigations into microbial resistance patterns, retrieve 12 papers published after 2021 from Google Scholar. Understanding these trends is crucial for effective treatment strategies.",Medicine
+"Please find 5 articles reviewing the latest surgical techniques for minimally invasive surgeries, no publication year restrictions, from PubMed",Medicine
+"Retrieve 7 papers on the correlation between mental health and genetics, published after 2018, from Google Scholar. A deeper understanding of this relationship could pave the way for personalized treatment.",Medicine
+"Collect 10 studies focused on vaccination strategies against infectious diseases in children, with no year restrictions from PubMed",Medicine
+"I need 9 papers discussing the role of nutrition in managing autoimmune disorders, published after 2020 from Google Scholar. Nutrition can significantly impact treatment plans and patient outcomes.",Medicine
+Please retrieve 10 papers on the role of nature in Romantic poetry from Google Scholar,Literature
+"Find 5 papers discussing the use of unreliable narrators in contemporary fiction, published after 2010 from JSTOR",Literature
+"Research the impact of colonialism on Caribbean literature, retrieve 10 papers, no year restriction from Google Scholar",Literature
+"Explore the evolution of the bildungsroman in German literature, locate 8 papers, published between 2000 and 2020 from JSTOR",Literature
+"Comprehensive analysis of gender representation in Victorian novels, retrieve 12 papers, published after 2018 from Google Scholar",Literature
+"Please find 6 papers on the theme of isolation in the works of James Joyce, with no year restrictions from JSTOR",Literature
+"Investigate how social media is influencing modern poetry, retrieve 10 papers, no publication year restriction from Google Scholar",Literature
+"Analyze the narrative structure of post-apocalyptic literature, find 7 papers, published after 2015 from JSTOR",Literature
+"Research on intertextuality in Latin American literature, retrieve 5 papers, with no year restriction from Google Scholar",Literature
+"Detailed look at the relationship between literature and trauma in 21st-century novels, retrieve 10 papers, published after 2019 from JSTOR",Literature
+"Retrieve 10 papers on sustainable agriculture from Google Scholar, published after 2021",Other
+"Research on behavioral economics, find 6 papers, no year restriction from JSTOR",Other
+"Studies on the impact of social media on politics, retrieve 8 papers from Google Scholar, no year restriction",Other
+I'm looking for a comprehensive analysis of the effects of climate policy on economic growth. Please retrieve 10 papers published in the last 5 years from Google Scholar,Other
+"Detailed studies on the role of corporate governance in financial performance, retrieve 7 papers, no year restriction from JSTOR",Other
+"Retrieve 5 papers on intercultural communication in global business from Google Scholar, published after 2018",Other
+"I need research on the intersection of technology and privacy laws; please find 10 papers, with no limitations on the publication year, from JSTOR",Other
+"Investigate the effects of urban green spaces on mental health; retrieve 8 papers, published after 2019 from Google Scholar. I am particularly interested in recent studies that offer new insights",Other
+"Papers analyzing the economic impact of tourism on local communities; please retrieve 6 papers from Google Scholar, no year restriction",Other
+"Retrieve 10 papers discussing the evolution of international trade policies from JSTOR, published in the last decade. I’m looking for trends and their implications on global economics.",Other
+"I need to retrieve 10 papers on the impact of remote learning on student engagement, with no year restrictions, from Google Scholar",Education
+"Please find 10 papers on the role of multicultural education in enhancing student performance, focusing on publications after 2019, crawl from ResearchGate",Education
+"Can you help me find 10 papers discussing assessment strategies in higher education, with no restrictions on year, from JSTOR?",Education
+"I'm interested in retrieving 10 papers about the efficacy of mindfulness practices in K-12 education, published since 2018, from ERIC. Please consider studies that include both qualitative and quantitative research.",Education
+"Please gather 10 papers related to the integration of technology in the classroom, no year restrictions, from Google Scholar",Education
+"I would like to find 10 papers examining the effects of class size on student learning outcomes, focusing on studies published in the last 5 years, from SAGE Journals. Detailed data and case studies would be beneficial.",Education
+"Retrieve 10 papers discussing parental involvement in education and its impact on academic success, no year restrictions, from PubMed",Education
+"Can you locate 10 papers analyzing the relationship between curriculum changes and student achievement, published after 2021, from SpringerLink? A focus on various disciplines would be ideal.",Education
+"I need 10 papers on strategies for supporting students with learning disabilities in mainstream classrooms, with no limitations on publication year, from Google Scholar",Education
+"Please find 10 papers on the effects of bilingual education on cognitive development in children, specifically those published in the last decade, crawling from Wiley Online Library. I would like insights on both benefits and challenges.",Education
+"Please retrieve 10 papers on neural networks, no year restriction, from IEEE Xplore",Computer_Science
+"Find 8 papers discussing quantum computing applications, published after 2021, from Google Scholar",Computer_Science
+"I need to access 10 papers on cybersecurity threats and preventive measures, no year restriction, from ResearchGate",Computer_Science
+"Explore the latest advancements in natural language processing, find 12 papers published in the last 5 years from ACL Anthology",Computer_Science
+"Research on the implications of AI ethics, find 6 papers published after 2020 from Google Scholar",Computer_Science
+"Please retrieve 10 papers on cloud computing architecture and design patterns, with no year restriction, from ACM Digital Library",Computer_Science
+"Investigate the role of big data in healthcare analytics, find 8 papers published between 2018 and 2022 from IEEE Xplore",Computer_Science
+"I need a set of 5 papers discussing the effectiveness of reinforcement learning, published after 2019, from SpringerLink",Computer_Science
+"Comprehensive research on the intersection of IoT and smart cities, find 10 papers from the last 3 years from ScienceDirect",Computer_Science
+"Detailed survey on algorithms used in autonomous vehicles, find 7 papers published in 2020 from Google Scholar",Computer_Science
+"Retrieve 10 papers on the effectiveness of vaccines in preventing influenza from PubMed, no year restriction",Medicine
+"I need 6 recent studies on diabetes management, published after 2019, from Google Scholar",Medicine
+"Find 10 research articles on the role of gut microbiome in mental health, no year restrictions, from PubMed",Medicine
+"Please gather 5 papers focused on advances in telemedicine and remote patient monitoring, with no restrictions on publication years, from Google Scholar",Medicine
+"Retrieve 12 papers discussing the long-term impacts of COVID-19 on respiratory health, focusing on studies published after 2021 from PubMed",Medicine
+"I am looking for 8 articles on the relationship between sleep disorders and cardiovascular disease, published in the last 5 years from Google Scholar",Medicine
+"Please find 10 papers on the latest surgical techniques for kidney transplants, published after 2022, from PubMed",Medicine
+"I need a comprehensive review of mental health interventions during the COVID-19 pandemic, gather 10 papers from Google Scholar, with no year restrictions",Medicine
+Find 7 studies on the impact of diet on chronic inflammation published after 2020 from PubMed,Medicine
+"Retrieve 6 papers focused on the use of artificial intelligence in early diagnosis of cancer, no year restriction, from Google Scholar",Medicine
+Please retrieve 10 papers on the themes of identity in contemporary poetry from Google Scholar,Literature
+"Find 10 papers on the role of women in Victorian literature, published after 2010 from JSTOR",Literature
+"Explore magical realism in Latin American novels, retrieve 10 papers, no year restriction from Google Scholar",Literature
+Please locate 5 papers discussing the evolution of the novel in the 21st century from JSTOR,Literature
+"Comprehensive analysis of the impact of post-colonial literature on global narratives, retrieve 8 papers, published after 2018 from Google Scholar",Literature
+"Research the motifs of nature and environment in Romantic poetry, generate 10 papers, no year restriction from JSTOR",Literature
+Please find 6 papers on the connection between literature and mental health awareness from Google Scholar,Literature
+"Explore the representation of race in American literature, retrieve 10 papers, no year restriction from JSTOR",Literature
+"Detailed analysis of the hero's journey in modern literature, please find 7 relevant papers published after 2019 from Google Scholar",Literature
+"Study the evolution of children's literature in the 20th century; retrieve 10 papers with a focus on diversity, no year restriction from JSTOR",Literature
+"Retrieve 10 papers on sustainable agriculture from Google Scholar, no year restriction",Other
+"Find 7 studies on the effects of air pollution on wildlife, published after 2018 from JSTOR",Other
+"I need 5 papers analyzing economic impacts of tourism in developing countries, no year restriction from Google Scholar",Other
+"Research on the role of social networks in political mobilization, please retrieve 10 papers, published after 2020 from JSTOR",Other
+"Detailed study on the psychological effects of public speaking anxiety, retrieve 6 papers, no year restriction from Google Scholar",Other
+"Comprehensive review of recent advances in nanotechnology applications, retrieve 8 papers, published after 2019 from JSTOR",Other
+"Find 10 papers discussing the impact of globalization on local cultures, no year restriction from Google Scholar",Other
+"Studies examining the relationship between urban green spaces and community health, please retrieve 5 papers, published after 2021 from JSTOR",Other
+"I need to retrieve 10 papers on the economic implications of cryptocurrency adoption, no year restriction from Google Scholar",Other
+"Research on the ethical implications of artificial intelligence in society, find 7 papers, published after 2020 from JSTOR",Other
+"I need to retrieve 10 papers on inclusive education practices, focusing on diverse learners, with no year restrictions from Google Scholar",Education
+"Please find 10 papers on the impact of technology on classroom engagement, published in the last 3 years, crawling from ERIC",Education
+"Research how parental involvement affects student achievement, looking for 10 papers with no year restriction from PubMed",Education
+"Investigate the role of formative assessment in higher education, seeking 10 papers published after 2019 from Google Scholar, particularly those that include case studies",Education
+"Find 10 papers on fostering critical thinking skills in primary education, focusing on strategies used by teachers, published in the last 5 years from ERIC",Education
+"I need 10 papers analyzing the effectiveness of online learning during the COVID-19 pandemic, without any publication year restrictions, crawling from IEEE",Education
+"Please retrieve 10 papers discussing literacy programs for adult learners, emphasizing innovative practices and outcomes, with no year restrictions, from Google Scholar",Education
+"Explore the relationship between teacher professional development and student outcomes, looking for 10 papers published after 2018, especially those that include longitudinal studies from ERIC",Education
+"Find 10 papers on integrating social-emotional learning into school curricula, focusing on implementation strategies and challenges, published in the last 4 years from Google Scholar",Education
+"Research the effects of culturally responsive teaching on minority students’ academic success, seeking 10 papers published in the last decade, crawling from JSTOR",Education
+"Please retrieve 10 papers on deep reinforcement learning, no year restriction, from IEEE Xplore",Computer_Science
+"Research on cloud computing security challenges, find 10 papers published after 2021 from Google Scholar",Computer_Science
+"I need to find 10 papers on natural language processing advancements from ACM Digital Library, no year restriction",Computer_Science
+"Comprehensive literature review on quantum computing applications, find 10 papers published in the last 5 years from arXiv",Computer_Science
+"Detailed analysis of adversarial attacks in neural networks, find 10 papers published after 2018 from ResearchGate",Computer_Science
+"Please gather 10 papers discussing the latest trends in edge computing, no year restriction, from Scopus",Computer_Science
+"Investigate the implications of Artificial Intelligence on cybersecurity, retrieve 10 papers published since 2020 from IEEE Xplore",Computer_Science
+"I seek 10 papers focusing on ethical considerations in AI development from Google Scholar, no year restriction",Computer_Science
+Please find 10 papers on privacy-preserving machine learning techniques published in the last year from Springer,Computer_Science
+"Examine the intersection of human-computer interaction and user experience design, retrieve 10 papers published after 2019 from ACM Digital Library",Computer_Science
+"I need 10 papers on the effectiveness of telemedicine in rural healthcare from PubMed, no year restriction",Medicine
+Find 8 studies on the impact of diet on mental health published after 2019 from Google Scholar,Medicine
+"Retrieve 5 papers discussing advancements in gene therapy for rare diseases, published after 2020 from PubMed",Medicine
+"Please find 12 articles on the relationship between sleep disorders and cardiovascular health, published after 2021 from Google Scholar",Medicine
+"I would like to explore 10 research papers on the latest findings in Alzheimer's disease, with a focus on biomarkers, retrieved from PubMed with no year restriction",Medicine
+"Retrieve 6 papers on the efficacy of vaccines in pediatric populations, published from 2018 to 2022 from Google Scholar",Medicine
+"I am interested in 10 recent studies on the use of artificial intelligence in diagnostics, particularly in radiology, from PubMed with no year restriction",Medicine
+"Find 7 papers on the environmental impacts of pharmaceutical waste, specifically focusing on aquatic life, published after 2019 from Google Scholar",Medicine
+"I need 10 papers discussing the psychosocial effects of COVID-19 on healthcare workers, published from 2020 to 2023 from PubMed",Medicine
+"Please provide 5 research articles on the role of microbiome in chronic diseases, with a focus on inflammatory bowel disease, retrieved from Google Scholar, published after 2021",Medicine
+Please retrieve 10 papers on the role of mythology in contemporary literature from Google Scholar,Literature
+"Find 10 papers discussing the themes of alienation in modern poetry, published after 2018 from JSTOR",Literature
+"Research on magical realism in Latin American literature, retrieve 6 papers, no year restriction from Google Scholar",Literature
+"Explore the intersections of literature and psychology in the works of Virginia Woolf, find 8 papers, published after 2010 from JSTOR",Literature
+"Investigate the portrayal of colonialism in 19th-century novels, retrieve 9 papers, no year restriction from Google Scholar",Literature
+"Comprehensive study on the evolution of the short story genre in the 21st century, please find 10 papers, focusing on works published after 2015 from JSTOR",Literature
+Please retrieve 7 papers analyzing the influence of feminist theory on 21st-century literature from Google Scholar,Literature
+"Research the impact of digital media on contemporary storytelling, find 5 papers, published after 2020 from JSTOR",Literature
+"Study on the representation of race in American literature, retrieve 10 papers, no year restriction from Google Scholar",Literature
+"Detailed exploration of existentialism in modern drama, please find 12 papers, focusing on works published after 2018 from JSTOR",Literature
+"I need to retrieve 10 papers on the impact of plastic pollution on marine life from Google Scholar, no year restriction",Other
+"Research on sustainable agriculture practices, find 8 papers from JSTOR, no year restriction",Other
+"Studies on the effects of global warming on polar ice caps, retrieve 7 papers from Google Scholar, no year restriction",Other
+"I'm looking for a comprehensive review on the dynamics of international trade agreements and their economic implications. Please retrieve 10 papers, published after 2020 from JSTOR.",Other
+"Detailed analysis of social media's influence on political activism during the recent elections, retrieve 5 papers from Google Scholar, no year restriction",Other
+"I need to find 10 papers discussing the psychological effects of natural disasters on communities from JSTOR, no year restriction",Other
+"Research on the role of microfinance in poverty alleviation, find 8 papers from Google Scholar, published after 2018",Other
+"A review of advancements in artificial photosynthesis technologies, please retrieve 10 papers from JSTOR, no year restriction",Other
+"Looking for 5 papers on the historical development of urban planning in the 20th century, from Google Scholar, published after 2015",Other
+"I'm interested in studies on the correlation between biodiversity loss and ecosystem services. Please retrieve 7 papers, no year restriction from JSTOR.",Other
+"Please retrieve 10 papers on the impact of technology integration in classrooms, no year restriction, from Google Scholar",Education
+"I need to find 5 papers on effective assessment strategies in online learning environments, preferably published since 2020 from JSTOR",Education
+"Looking for 10 academic papers discussing multicultural education practices, with no restrictions on publication year, crawled from ERIC",Education
+"Can you find 7 papers on social-emotional learning programs for middle school students, published in the last 3 years, from Google Scholar?",Education
+"I would like to retrieve 10 papers examining the role of parental involvement in student achievement, with no year restrictions, sourced from PubMed",Education
+"Please locate 8 papers related to the effects of project-based learning on student engagement, preferably published after 2019, from Scopus.",Education
+"Investigate the effectiveness of flipped classroom models on undergraduate student performance, focusing on papers published in the last 5 years, crawl from ERIC for 10 papers.",Education
+"Find 12 papers discussing teacher professional development and its impact on student learning outcomes, with no year restrictions, from Google Scholar.",Education
+"I need 6 papers on the psychological impacts of standardized testing on high school students, published after 2020, sourced from PsycINFO.",Education
+"Can you gather 10 academic articles on inclusive education strategies that address diverse learning needs, with no year limitations, from SpringerLink?",Education
+"Please retrieve 10 papers on quantum computing advancements, no year restriction, from IEEE Xplore",Computer_Science
+"Research on natural language processing applications in healthcare, find 10 papers published in the last 5 years from Google Scholar",Computer_Science
+"I need to find 10 papers discussing cybersecurity threats in IoT devices from ACM Digital Library, no year restriction",Computer_Science
+"Explore the impact of edge computing on data processing speeds, please find 10 papers published after 2018 from ScienceDirect",Computer_Science
+Please collect 10 papers on reinforcement learning techniques with no year restrictions from arXiv,Computer_Science
+"Investigate the role of artificial intelligence in climate modeling, search for 10 papers published in the last 2 years from IEEE Xplore",Computer_Science
+"I would like to find 8 papers on graph theory applications in network design from SpringerLink, no year restriction",Computer_Science
+A comprehensive survey of privacy-preserving techniques in machine learning is needed; please retrieve 10 papers published since 2020 from Google Scholar,Computer_Science
+"Please find 10 papers discussing software development methodologies in agile environments from ACM Digital Library, no year restriction",Computer_Science
+Research on the integration of 5G technology in smart cities; find 10 papers published after 2019 from IEEE Xplore,Computer_Science
+"Retrieve 10 papers on hypertension management from PubMed, no year restriction",Medicine
+"I need 5 studies discussing the efficacy of vaccines against influenza from Google Scholar, published after 2019",Medicine
+"Find 10 recent papers on the impact of diet on diabetes management, no year restrictions, from PubMed",Medicine
+"Please gather 8 papers focusing on mental health interventions in adolescents, published after 2020, from Google Scholar",Medicine
+"I require a comprehensive review of current surgical techniques in orthopedic medicine, retrieve 10 papers, published after 2018 from PubMed",Medicine
+"Help me find 7 studies on the relationship between sleep disorders and cardiovascular health, no year restrictions, from Google Scholar",Medicine
+"Look for 10 papers discussing the advancements in telemedicine during the COVID-19 pandemic, published after 2020 from PubMed",Medicine
+"I would like to retrieve 5 papers covering the psychological effects of chronic illness on patients, with no year restriction, from Google Scholar",Medicine
+"Find 8 papers exploring the role of genetics in cancer development, published in the past 5 years from PubMed",Medicine
+"Please collect 12 studies on the relationship between exercise and mental health outcomes, with no year restrictions, from Google Scholar",Medicine
+Retrieve 10 papers on the role of women in Victorian literature from JSTOR,Literature
+Find 5 papers focused on postcolonial themes in 21st-century novels from Google Scholar,Literature
+"Look for 10 papers discussing the evolution of the novel as a literary form, no year restriction from JSTOR",Literature
+"Search for 8 papers examining the impact of Romantic poetry on contemporary poetry, published after 2010 from Google Scholar",Literature
+"Gather 10 studies on the use of magical realism in Latin American literature, with no year restrictions from JSTOR",Literature
+"Please find 12 papers that analyze the representation of race in literature, emphasizing American authors, no year restrictions from Google Scholar",Literature
+"Research the influence of existential philosophy on 20th-century literature; retrieve 6 papers, published after 2015 from Google Scholar",Literature
+"Find 7 papers exploring the relationship between literature and politics during the Cold War era, no year restrictions from JSTOR",Literature
+"Gather 10 studies on the impact of social media on modern narrative forms, paying special attention to digital literature, no year restrictions from Google Scholar",Literature
+"Retrieve 5 papers that critically evaluate the works of contemporary Indigenous authors and their contributions to global literature, published after 2020 from JSTOR",Literature
+"I need to retrieve 10 papers on sustainable agriculture practices from Google Scholar, no year restriction",Other
+"Retrieve 5 papers on the effects of globalization on local economies from JSTOR, no year restriction",Other
+"Research on the influence of social media on political engagement, find 6 papers, no year restriction from Google Scholar",Other
+"I am looking for studies on the relationship between urban green spaces and public health, retrieve 8 papers, published after 2018 from JSTOR",Other
+"Detailed exploration of the implications of international trade agreements on developing countries, retrieve 10 papers, no year restriction from Google Scholar",Other
+"I would like to find 7 papers discussing advances in renewable resource management, no year restriction from JSTOR",Other
+"Comprehensive analysis of behavioral economics and its real-world applications, retrieve 5 papers, published after 2020 from Google Scholar",Other
+"Research outlining the impact of artificial intelligence on marketing strategies, retrieve 8 papers, no year restriction from JSTOR",Other
+"I need a detailed review of the effects of climate change on biodiversity, find 10 papers, published after 2019 from Google Scholar",Other
+"Studies on the implications of demographic changes in workforce dynamics, retrieve 6 papers, published after 2017 from JSTOR",Other
+"Please find 10 papers on the impact of online learning on student engagement, with no year restriction, crawl from Google Scholar",Education
+"I need to retrieve 7 papers discussing the role of formative assessment in high school education, ideally published after 2019 from PubMed",Education
+"Retrieve 10 papers about social-emotional learning programs in elementary schools, with no limitations on publication year, from Google Scholar",Education
+"Investigate the effectiveness of bilingual education models in primary schools, looking for 8 papers published in the last 3 years, crawl from ERIC",Education
+"I would like to find 12 papers on inclusive education practices for children with disabilities, with a focus on the last decade of research, from Google Scholar",Education
+"Please obtain 5 papers on the use of artificial intelligence in personalized learning experiences, with no year restrictions, crawl from IEEE",Education
+"I need 10 papers exploring the challenges of implementing STEM education in rural schools, with no restrictions on publication year, from Scopus",Education
+"Find 6 papers on the relationship between parental involvement and student academic success, published after 2020, crawl from Google Scholar",Education
+"Please retrieve 9 papers discussing teacher training programs for culturally responsive teaching, emphasizing research from the last 5 years, from ERIC",Education
+"I would like to explore the transition from traditional to digital classrooms in higher education, seeking 10 papers with no year restrictions, crawl from JSTOR",Education
+"Please retrieve 10 papers on deep learning architectures, no year restriction, from IEEE Xplore",Computer_Science
+"I am looking for 8 recent publications on natural language processing advancements from Google Scholar, published after 2021",Computer_Science
+"Find 10 papers discussing cybersecurity threats in cloud computing, no year restriction, from ACM Digital Library",Computer_Science
+"Please locate 5 studies on the impact of quantum computing on cryptography, published in the last 3 years, from arXiv",Computer_Science
+"Research on the ethical implications of AI in healthcare, find 10 papers published since 2020 from PubMed",Computer_Science
+"I need 7 papers focused on software engineering methodologies and their evolution, no year restriction, from IEEE Xplore",Computer_Science
+"Comprehensive analysis of reinforcement learning in robotics, please find 10 papers published after 2019 from Google Scholar",Computer_Science
+"Retrieve 6 papers that explore the use of generative adversarial networks in image synthesis, no year restriction, from arXiv",Computer_Science
+"Detailed examination of the Internet of Things (IoT) security challenges, please find 10 papers published since 2021 from ACM Digital Library",Computer_Science
+"Search for 5 papers on the role of big data analytics in business intelligence, no year restriction, from ScienceDirect",Computer_Science
+"I need 10 papers on diabetes management strategies from PubMed, no year restriction",Medicine
+"Find 6 papers on the effectiveness of mRNA vaccines against variants from Google Scholar, published after 2021",Medicine
+"Retrieve 8 studies on maternal health improvements from PubMed, no year restriction",Medicine
+"Looking for recent research on mental health interventions for veterans, please find 10 papers published after 2019 from Google Scholar. This is crucial for my ongoing project on supporting this demographic.",Medicine
+"I need 5 papers on pain management in cancer patients, published after 2020, from PubMed",Medicine
+"Locate 12 articles on the impacts of obesity on heart disease from Google Scholar, no year restriction. The relationship between these two issues is critical for my thesis.",Medicine
+"Find 10 papers discussing the role of telemedicine in patient care, retrieved from PubMed, with no year restrictions",Medicine
+"I want 7 papers focused on pediatric vaccine efficacy, published after 2018, from Google Scholar. Understanding recent findings is essential for my research on public health initiatives in children.",Medicine
+"Retrieve 10 studies on the benefits of exercise in elderly populations from PubMed, no publication year restrictions",Medicine
+"Please find 8 papers analyzing the relationship between sleep disorders and chronic illness, published after 2021, from Google Scholar. This area is particularly relevant for upcoming community health workshops.",Medicine
+Please retrieve 10 papers on the role of social media in contemporary poetry from Google Scholar,Literature
+"Find 10 papers discussing magical realism in Latin American literature, no year restriction, from JSTOR",Literature
+"Research on the evolution of the bildungsroman genre, retrieve 6 papers from 2000 to 2023 from Google Scholar",Literature
+"Comprehensive analysis of the impact of colonialism on 19th-century British literature, find 10 papers, published after 2010 from JSTOR",Literature
+"Explore the representation of mental health in contemporary novels, retrieve 8 papers, no year restriction from Google Scholar",Literature
+Please find 5 papers on the use of stream of consciousness as a narrative technique in modernist literature from JSTOR,Literature
+"Research on the dynamics of race and identity in African American literature, retrieve 10 papers, published after 2018 from Google Scholar",Literature
+"Detailed exploration of the theme of nature in Romantic poetry, find 7 papers, no year restriction from JSTOR",Literature
+"Investigate the influence of translation on literary interpretation, retrieve 8 papers published between 2015 and 2023 from Google Scholar",Literature
+"Analyze the characteristics of dystopian literature in the 21st century, find 12 papers, no year restriction from JSTOR",Literature
+"I need to retrieve 10 papers on environmental sustainability from Google Scholar, no year restriction",Other
+"Research on the impact of social media on political engagement, find 8 papers, published after 2021 from JSTOR",Other
+"Studies related to the effects of urbanization on biodiversity, retrieve 6 papers from Google Scholar, no year restriction",Other
+"A comprehensive review of strategies for reducing carbon emissions in agriculture, retrieve 10 papers, published after 2018 from Google Scholar",Other
+"Detailed analysis of the economic implications of globalization in developing countries, retrieve 5 papers, no year restriction from JSTOR",Other
+"I need to find 10 academic papers on renewable energy policies, no year restriction from Google Scholar",Other
+"Conduct a study on the role of trade agreements in international relations, retrieve 7 papers, published after 2020 from JSTOR",Other
+"Research on the psychological effects of climate change awareness, retrieve 5 papers, no year restriction from Google Scholar",Other
+"I am looking for 10 papers on the history and impact of public health policy in urban settings, no year restriction from JSTOR",Other
+"Explore the relationship between technology adoption and productivity in small businesses, retrieve 8 papers, published after 2019 from Google Scholar",Other
