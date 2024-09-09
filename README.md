@@ -46,21 +46,21 @@ Telegram Academic Bot 是一个基于自然语言处理、信息检索和文档�
 
 ## 文件说明
 
-- **func_crawl.py**: 实现 `/crawl` 功能，负责从 CNKI 或 Google Scholar 爬取符合条件的学术论文，并将整理后的结果返回给用户。
+- **func_crawl.ipynb**: 实现 `/crawl` 功能，负责从 CNKI 或 Google Scholar 爬取符合条件的学术论文，并将整理后的结果返回给用户。
   
-- **func_recommend.py**: 实现 `/recommend` 功能，依据本地存储的论文数据推荐符合用户需求的论文，并返回摘要和链接。
+- **func_recommend.ipynb**: 实现 `/recommend` 功能，依据本地存储的论文数据推荐符合用户需求的论文，并返回摘要和链接。
 
-- **func_news.py**: 实现 `/news` 功能，集成 Perplexity API 实时查询并返回与用户指定主题相关的最新新闻。
+- **func_news.ipynb**: 实现 `/news` 功能，集成 Perplexity API 实时查询并返回与用户指定主题相关的最新新闻。
 
-- **func_upload.py**: 实现 `/upload` 功能，将用户上传的 PDF 文档存储到 Pinecone 向量数据库中，以便后续检索和管理。
+- **func_upload.ipynb**: 实现 `/upload` 功能，将用户上传的 PDF 文档存储到 Pinecone 向量数据库中，以便后续检索和管理。
 
-- **func_rag.py**: 实现 `/rag` 功能，通过 Retrieval-Augmented Generation (RAG) 技术，实现与 Pinecone 数据库中的文档进行交互式问答。
+- **func_rag.ipynb**: 实现 `/rag` 功能，通过 Retrieval-Augmented Generation (RAG) 技术，实现与 Pinecone 数据库中的文档进行交互式问答。
 
 - **main.ipynb**: 汇总了所有功能，用户只需运行此文件即可体验 Telegram Academic Bot 提供的完整功能。
 
-- **DataGeneration.py**: 使用 OpenAI 模型结合特定 prompt 生成模拟的用户请求数据，主要用于训练和测试文本分类模型。
+- **DataGeneration.ipynb**: 使用 OpenAI 模型结合特定 prompt 生成模拟的用户请求数据，主要用于训练和测试文本分类模型。
 
-- **TextCategorization.py**: 实现文本分类模型的训练与评估，项目中使用了多种模型（如 TextCNN、TextRNN、TextRCNN）来提升分类效果。
+- **TextCategorization.ipynb**: 实现文本分类模型的训练与评估，项目中使用了多种模型（如 TextCNN、TextRNN、TextRCNN）来提升分类效果。
 
 - **visualization.py**: 提供可视化工具，用于监控和展示模型训练过程中的各类指标（如损失和准确率），支持任意模型的训练可视化。
 
