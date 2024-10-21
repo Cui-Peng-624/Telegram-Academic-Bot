@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+all_tests/
+data/.ipynb_checkpoints/
+data/data_crawled/.ipynb_checkpoints/
+data/data_crawled/database_persistence/.ipynb_checkpoints/
+data/data_crawled/database_temporary/.ipynb_checkpoints/
+rawPDFs/.ipynb_checkpoints/
+rawPDFs/Others/托福成绩单.pdf
+rawPDFs/Others/.ipynb_checkpoints/
+
+
+
+
